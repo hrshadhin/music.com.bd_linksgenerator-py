@@ -7,7 +7,7 @@ Installation
 ============
 Install below packages:
 
-   install python-pip
+   "install python-pip"
    
    pip install beautifulsoup4
 
